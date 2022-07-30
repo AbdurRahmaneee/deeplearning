@@ -1,2 +1,3 @@
 # deeplearning
-work among two buddies
+detecting dog breeds
+
